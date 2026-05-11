@@ -1,6 +1,6 @@
 # 👋 Bonjour je m'appelle David !
 
-### 👨‍💻 Je travaille actuellement au sein d'une mutuelle dans la région des Hauts-de-France <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Logo_Hauts-de-France_2016.svg/1200px-Logo_Hauts-de-France_2016.svg.png" width="100" alt="Logo Hauts-de-France">
+### 👨‍💻 Je travaille actuellement au sein d'une mutuelle dans la région des Hauts-de-France <img src="https://www.hautsdefrance.fr/app/uploads/2016/03/logo-hdf-carre.png" width="80" alt="Logo Hauts-de-France">
 ---
 
 ### 👨‍🎓 En ce moment
