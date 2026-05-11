@@ -1,10 +1,10 @@
 # 👋 Bonjour je m'appelle David !
 
-### 👨‍💻 Je travaille actuellement au sein d'une mutuelle dans la région des Hauts-de-France <img src="https://www.hautsdefrance.fr/app/uploads/2016/03/logo-hdf-carre.png" width="80" alt="Logo Hauts-de-France">
+### 👨‍💻 Je travaille actuellement au sein d'une mutuelle dans la région des Hauts-de-France <img src="Logo_HDF.png" width="25">
 ---
 
 ### 👨‍🎓 En ce moment
-Je suis une formation au sein de l'organisme Jedha <img src="https://www.jedha.co/logos/jedha-logo.svg" width="100" alt="Jedha Bootcamp"> pour obtenir les diplômes de 
+Je suis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" width="25"> pour obtenir les diplômes de :
 * 📊 Concepteur Développeur en Science de la Données
 * 🤖 Architecte en Intelligence Artificielle 
 
