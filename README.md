@@ -12,7 +12,7 @@ Je suis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" wid
 ### 📝 Blocs de certification
 *  CDSD
     *   Bloc 1 - Construction et alimentation d'une infrastructure de gestion de données
-        *   Projet Kayak(https://github.com/David62690/CDSD_Bloc1) 
+        *   [Projet Kayak](https://github.com/David62690/CDSD_Bloc1) 
     *   [Bloc 2](https://github.com/David62690/nom-du-repo) - Analyse exploratoire, descriptive et inférentielle de données
     *   [Bloc 3](https://github.com/ton-pseudo/nom-du-repo) - Analyse prédictive de données structurées par l'intelligence artificielle
     *   [Bloc 4](https://github.com/ton-pseudo/nom-du-repo) - Analyse prédictive de données non-structurées par l'intelligence artificielle
