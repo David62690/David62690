@@ -12,7 +12,8 @@ Je poursuis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg"
 ### 📝 Blocs de certification
 *  CDSD
     *   Bloc 1 - Construction et alimentation d'une infrastructure de gestion de données
-        *   [Projet Kayak](https://github.com/David62690/CERTIF/CDSD/BLOC%201/01%20-%20Projet%20Kayak) 
+        *   [Projet Kayak](https://github.com/David62690/CERTIF/CDSD/BLOC%201/01%20-%20Projet%20Kayak)
+        *   [Projet Kayak](CERTIF/CDSD/BLOC%201/01%20-%20Projet%20Kayak/)
     *   Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
         *   [Projet Tinder](https://github.com/David62690/CERTIF/CDSD/BLOC%202/02%20-%20Projet%20Tinder) 
         *   [Projet Steam](https://github.com/David62690/CERTIF/CDSD/BLOC%202/03%20-%20Projet%20Steam) 
