@@ -14,7 +14,7 @@ Je suis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" wid
     *   Bloc 1 - Construction et alimentation d'une infrastructure de gestion de données
         *   [Projet Kayak](https://github.com/David62690/CERTIF/CDSD/BLOC%201/01%20-%20Projet%20Kayak) 
     *   Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
-        *   [Projet Tinder](https://github.com/David62690/CERTIF/CDSD/BLOC%202/021%20-%20Projet%20Tinder) 
+        *   [Projet Tinder](https://github.com/David62690/CERTIF/CDSD/BLOC%202/02%20-%20Projet%20Tinder) 
         *   [Projet Steam](https://github.com/David62690/CERTIF/CDSD/BLOC%202/03%20-%20Projet%20Steam) 
     *   Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle
         *   [Projet Walmart](https://github.com/David62690/CERTIF/CDSD/BLOC%203/04%20-%20Projet%20Walmart) 
