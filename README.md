@@ -1,6 +1,6 @@
 # 👋 Bonjour je m'appelle David !
 
-### 👨‍💻 Je suis actuellement en poste au sein d'une mutuelle dans la région des Hauts-de-France <img src="Logo_HDF.png" width="25">
+### 👨‍💻 Je suis actuellement en poste au sein d'une mutuelle dans les Hauts-de-France <img src="Logo_HDF.png" width="25">
 ---
 
 ### 👨‍🎓 En ce moment
