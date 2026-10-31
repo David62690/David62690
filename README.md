@@ -17,6 +17,9 @@ Je suis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" wid
     *   [Bloc 4](https://github.com/ton-pseudo/nom-du-repo) - Description courte du projet - Analyse prédictive de données non-structurées par l'intelligence artificielle
     *   [Bloc 5](https://github.com/ton-pseudo/nom-du-repo) - Description courte du projet - Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
     *   [Bloc 6](https://github.com/ton-pseudo/nom-du-repo) - Description courte du projet - Direction de projets de gestion de données
+
+* AIA
+    * bla
 ---
 
 ### 🛠️ Mes outils préférés
