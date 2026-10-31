@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍🎓 En ce moment
-Je suis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" width="25"> pour obtenir les diplômes de :
+Je poursuis une formation au sein de l'organisme Jedha <img src="Logo_Jedha.jpg" width="25"> pour obtenir les diplômes de :
 * 📊 Concepteur Développeur en Science de la Données
 * 🤖 Architecte en Intelligence Artificielle 
 
